@@ -40,7 +40,10 @@ function ContentLogo() {
         loop={true}
         className="w-16 h-16"
       />
-      <img src={logo} alt="" />
+      <Image
+        src={logo}
+        alt="Logo"            
+      />
     </div>
   )
 }
