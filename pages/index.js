@@ -17,7 +17,7 @@ function Content() {
         data-aos-delay={300}
         data-aos-anchor="body"
       >
-        Hassle-free meme trading platform built for degen traders
+        Hassle-free meme trading platform built to protect you from rugpull
       </div>
       <div
         className="flex items-center gap-3"
