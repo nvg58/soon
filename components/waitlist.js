@@ -56,9 +56,10 @@ export default function Waitlist() {
     >
       <div className="flex flex-col text-base text-white">
         <div className="font-medium">Join the waitlist</div>
-        <div className="text-white text-opacity-50">Sign up to be one of the first to use Dex3 (and get airdrop, 🤔?).</div>
+        <div className="text-white text-opacity-50">Sign up to be one of the first to use Dex3 (and get airdrop, huh?).</div>
       </div>
-      <form onSubmit={handleSubmit}>
+      <a href="https://t.me/dex3fiann" className="inline-flex items-center justify-center px-5 py-2 bg-white rounded-full text-black text-base font-medium leading-6 select-none">Join us</a>
+      {/* <form onSubmit={handleSubmit}>
         <label className={style.waitlist__form}>
           <input
             ref={emailRef}
@@ -93,7 +94,7 @@ export default function Waitlist() {
           theme="dark"
           sitekey="6LcfZyUeAAAAAN7bjLWN7woeVRHDLsVypV_InnfP"
         />
-      </form>
+      </form> */}
     </div>
   )
 }
