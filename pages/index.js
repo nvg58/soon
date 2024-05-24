@@ -34,12 +34,12 @@ function Content() {
 function ContentLogo() {
   return (
     <div className="flex flex-col items-center gap-1 pointer-events-none select-none" data-aos="fade-up" data-aos-anchor="body">
-      <Lottie
+      {/* <Lottie
         animationData={flagAnimation}
         autoplay={true}
         loop={true}
         className="w-16 h-16"
-      />
+      /> */}
       <Image
         src={logo}
         alt="Logo"            
