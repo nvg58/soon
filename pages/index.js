@@ -85,7 +85,7 @@ function Creators() {
       data-aos-anchor="body"
     >
       {/* <CreatorsItem link="https://twitter.com/eugurlu_" badge="Designer" name="Emirhan Ugurlu"/> */}
-      <span className="text-white text-opacity-25">Built by degen for degen!</span>
+      <span className="text-white text-opacity-25">Built by degens for degens!</span>
       {/* <CreatorsItem link="https://twitter.com/altiokberk" badge="Developer" name="Berk Altıok"/> */}
     </div>
   )
