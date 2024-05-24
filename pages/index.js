@@ -24,8 +24,7 @@ function Content() {
         data-aos="fade-up"
         data-aos-delay={800}
         data-aos-anchor="body"
-      >
-        {/* <a href="https://twitter.com/dex3fi" className="inline-flex items-center justify-center px-5 py-2 bg-white rounded-full text-black text-base font-medium leading-6 select-none">Follow us</a> */}
+      >        
         <ContentSocial/>
       </div>
     </div>
@@ -96,7 +95,7 @@ function CreatorsItem({ name, link, badge }) {
     <div className="flex gap-1">
       <span className="hidden sm:inline text-white text-opacity-25">{badge}</span>
       <a
-        className="text-white text-opacity-50 text-opacity-100 transition-colors duration-200"hover:
+        className="text-white text-opacity-50 hover:text-opacity-100 transition-colors duration-200"
         href={link}
         target="_blank"
         rel="noreferrer"
