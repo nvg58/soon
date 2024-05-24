@@ -25,7 +25,7 @@ function Content() {
         data-aos-delay={800}
         data-aos-anchor="body"
       >
-        <a href="https://twitter.com/dex3fi" className="inline-flex items-center justify-center px-5 py-2 bg-white rounded-full text-black text-base font-medium leading-6 select-none">Follow us</a>
+        {/* <a href="https://twitter.com/dex3fi" className="inline-flex items-center justify-center px-5 py-2 bg-white rounded-full text-black text-base font-medium leading-6 select-none">Follow us</a> */}
         <ContentSocial/>
       </div>
     </div>
@@ -34,12 +34,6 @@ function Content() {
 function ContentLogo() {
   return (
     <div className="flex flex-col items-center gap-1 pointer-events-none select-none" data-aos="fade-up" data-aos-anchor="body">
-      {/* <Lottie
-        animationData={flagAnimation}
-        autoplay={true}
-        loop={true}
-        className="w-16 h-16"
-      /> */}
       <Image
         src={logo}
         alt="Logo"            
