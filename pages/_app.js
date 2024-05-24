@@ -25,23 +25,23 @@ function App({ Component, pageProps }) {
       <Head>
         <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover" />
 
-        <title>Revolicon - Beautifully Crafted Open Source Icons</title>
-        <meta name="title" content="Revolicon - Beautifully Crafted Open Source Icons" />
-        <meta name="description" content="Revolicon is an open-source icon library. It is designed for consistency and accessibility. The icons are carefully crafted for you to work seamlessly." />
-        <meta name="keywords" content="Revolicon, Font Icon, Web Icon, Icons, Icon, SVG Icon, SVG, Font, Revolution" />
+        <title>Dex3 - Hassle-free meme trading platform built for degen traders</title>
+        <meta name="title" content="Dex3 - Hassle-free meme trading platform built for degen traders" />
+        <meta name="description" content="Dex3 - Hassle-free meme trading platform built for degen traders. Built by degens for degens." />
+        <meta name="keywords" content="Web3, Decentralize, Revolution" />
 
-        <meta property="og:site_name" content="Revolicon" />
+        <meta property="og:site_name" content="Dex3" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://revolicon.com/" />
-        <meta property="og:title" content="Revolicon - Beautifully Crafted Open Source Icons" />
-        <meta property="og:description" content="Revolicon is an open-source icon library. It is designed for consistency and accessibility. The icons are carefully crafted for you to work seamlessly." />
+        <meta property="og:url" content="https://dex3.fi" />
+        <meta property="og:title" content="Dex3 - Hassle-free meme trading platform built for degen traders" />
+        <meta property="og:description" content="Dex3 - Hassle-free meme trading platform built for degen traders. Built by degens for degens." />
         <meta property="og:image" content="/thumbnail.png" />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://revolicon.com/" />
-        <meta property="twitter:title" content="Revolicon - Beautifully Crafted Open Source Icons" />
-        <meta property="twitter:description" content="Revolicon is an open-source icon library. It is designed for consistency and accessibility. The icons are carefully crafted for you to work seamlessly." />
+        <meta property="twitter:url" content="https://dex3.fi/" />
+        <meta property="twitter:title" content="Dex3 - Hassle-free meme trading platform built for degen traders" />
+        <meta property="twitter:description" content="Dex3 - Hassle-free meme trading platform built for degen traders. Built by degens for degens. The icons are carefully crafted for you to work seamlessly." />
         <meta property="twitter:image" content="/thumbnail.png" />
       </Head>
       <Component {...pageProps} />
