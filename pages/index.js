@@ -95,7 +95,7 @@ function CreatorsItem({ name, link, badge }) {
     <div className="flex gap-1">
       <span className="hidden sm:inline text-white text-opacity-25">{badge}</span>
       <a
-        className="text-white text-opacity-50 hover:text-opacity-100 transition-colors duration-200"
+        className="text-white text-opacity-50 text-opacity-100 transition-colors duration-hover:200"
         href={link}
         target="_blank"
         rel="noreferrer"

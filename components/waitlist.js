@@ -58,7 +58,7 @@ export default function Waitlist() {
         <div className="font-medium">Join the waitlist</div>
         <div className="text-white text-opacity-50">Sign up to be one of the first to use Dex3 and get airdrop 🪂</div>
       </div>
-      <a href="https://t.me/dex3fiann" className="inline-flex items-center justify-center px-5 py-2 bg-white rounded-full text-black text-base font-medium leading-6 select-none">Join us</a>
+      <a href="https://t.me/dex3fiann" className="transition-all duration-200 hover:bg-opacity-10 inline-flex items-center justify-center px-5 py-2 bg-white rounded-full text-black text-base font-medium leading-6 select-none">Join us</a>
       {/* <form onSubmit={handleSubmit}>
         <label className={style.waitlist__form}>
           <input
