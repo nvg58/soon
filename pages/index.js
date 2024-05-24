@@ -17,7 +17,7 @@ function Content() {
         data-aos-delay={300}
         data-aos-anchor="body"
       >
-        Beautifully crafted open source icons.
+        Hassle-free meme trading platform built for degen traders.
       </div>
       <div
         className="flex items-center gap-3"
