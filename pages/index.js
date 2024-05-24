@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Lottie from "lottie-react";
-import { Discord, Twitter } from "../components/icons";
+import { Discord, Telegram, Twitter } from "../components/icons";
 import logo from "../public/dex3-logo.svg";
 
 import style from '../styles/home.module.scss'
