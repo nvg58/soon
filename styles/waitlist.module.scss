@@ -2,6 +2,10 @@
   @apply flex flex-col w-full p-6 rounded-3xl w-full border border-white/[.1] backdrop-blur-[25px] gap-6;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), rgba(255, 255, 255, 0.05);
 
+  .desc-text {
+    display: contents;
+  }
+
   &__form {
     @apply
     flex
