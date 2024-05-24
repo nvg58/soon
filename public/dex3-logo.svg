@@ -2,14 +2,6 @@
 <svg height="100" id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 638.13 156.94">
   <defs>
     <style>
-      .cls-1 {
-        fill: #fff;
-      }
-
-      .cls-2 {
-        fill: url(#linear-gradient);
-      }
-    </style>
     <linearGradient id="linear-gradient" x1="82.56" y1="232.18" x2="391.54" y2="-76.79" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset=".25" stop-color="#b3b3b3"/>
