@@ -49,10 +49,6 @@ function ContentSocial() {
     {
       icon: Telegram,
       url: 'https://t.me/dex3fiann',
-    },
-    {
-      icon: Discord,
-      url: 'https://discord.gg/dex3fi',
     }
   ]
 
