@@ -17,7 +17,7 @@ function Content() {
         data-aos-delay={300}
         data-aos-anchor="body"
       >
-        A lighting-fast, hassle-free platform that turbocharges your meme trading adventure
+        Snipe The Next 100x #Memecoin: Profit More, Stress Less.
       </div>
       <div
         className="flex items-center gap-3"
